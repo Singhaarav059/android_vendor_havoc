@@ -139,7 +139,8 @@ PRODUCT_PACKAGES += \
     SafetyHubPrebuilt \
     SettingsIntelligenceGooglePrebuilt \
     SoundPickerPrebuilt \
-    TouchGestures
+    TouchGestures \
+    Lawnchair
 
 # Overlays
 PRODUCT_PACKAGES += \
@@ -180,6 +181,11 @@ PRODUCT_PACKAGES += \
     vim \
     wget \
     zip
+
+# Lawnchair
+PRODUCT_COPY_FILES += \
+    vendor/havoc/prebuilt/common/etc/permissions/privapp-permissions-lawnchair.xml:system/etc/permissions/privapp-permissions-lawnchair.xml \
+    vendor/havoc/prebuilt/common/etc/sysconfig/lawnchair-hiddenapi-package-whitelist.xml:system/etc/sysconfig/lawnchair-hiddenapi-package-whitelis$
 
 # Charger
 PRODUCT_PACKAGES += \
