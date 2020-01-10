@@ -247,6 +247,7 @@ PRODUCT_PACKAGES += \
 # GApps
 ifeq ($(WITH_GAPPS),true)
 include vendor/gapps/config.mk
+include vendor/google/customization/config.mk
 endif
 
 -include $(WORKSPACE)/build_env/image-auto-bits.mk
