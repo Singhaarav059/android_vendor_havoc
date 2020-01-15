@@ -122,17 +122,14 @@ PRODUCT_PACKAGES += \
 
 # AOSP packages
 PRODUCT_PACKAGES += \
-    ExactCalculator \
     Exchange2 \
     Terminal \
     ThemePicker
 
 # Havoc packages
 PRODUCT_PACKAGES += \
-    Browser \
     CustomDoze \
     GalleryGoPrebuilt \
-    NexusLauncherRelease \
     NexusWallpapersStubPrebuilt2019Static \
     OmniStyle \
     PixelThemesStub2019 \
@@ -141,10 +138,6 @@ PRODUCT_PACKAGES += \
     SoundPickerPrebuilt \
     TouchGestures \
     Lawnchair
-
-# Overlays
-PRODUCT_PACKAGES += \
-    NexusLauncherReleaseOverlay
 
 # Accents
 PRODUCT_PACKAGES += \
