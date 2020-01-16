@@ -133,6 +133,7 @@ PRODUCT_PACKAGES += \
     NexusWallpapersStubPrebuilt2019Static \
     OmniStyle \
     PixelThemesStub2019 \
+    Recorder \
     SafetyHubPrebuilt \
     SettingsIntelligenceGooglePrebuilt \
     SoundPickerPrebuilt \
