@@ -128,6 +128,7 @@ PRODUCT_PACKAGES += \
 
 # Havoc packages
 PRODUCT_PACKAGES += \
+<<<<<<< HEAD
     CustomDoze \
     GalleryGoPrebuilt \
     NexusWallpapersStubPrebuilt2019Static \
