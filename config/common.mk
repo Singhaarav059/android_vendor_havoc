@@ -103,6 +103,10 @@ endif
 # Do not include art debug targets
 PRODUCT_ART_TARGET_INCLUDE_DEBUG_BUILD := false
 
+# OP Recorder
+PRODUCT_COPY_FILES += \
+    vendor/havoc/prebuilt/common/etc/permissions/privapp-permissions-oprecorder.xml:system/etc/permissions/privapp-permissions-oprecorder.xml
+
 # Lawnchair
 PRODUCT_COPY_FILES += \
     vendor/havoc/prebuilt/common/etc/permissions/privapp-permissions-lawnchair.xml:system/etc/permissions/privapp-permissions-lawnchair.xml \
