@@ -134,9 +134,14 @@ PRODUCT_PACKAGES += \
     PrebuiltDeskClockGoogle \
     Velvet \
     StitchImage \
+    Lawnchair \
+    Lawnfeed \
     OmniStyle \
     PixelThemesStub2019 \
     SoundPickerPrebuilt
+
+# Lawnchair
+PRODUCT_PACKAGE_OVERLAYS += vendor/havoc/lawnchair
 
 # Accents
 PRODUCT_PACKAGES += \
