@@ -147,6 +147,7 @@ PRODUCT_PACKAGES += \
     Longshot \
     Lawnchair \
     Lawnfeed \
+    OPScreenRecorder \
     OmniStyle \
     PrebuiltDeskClockGoogle \
     PixelThemesStub2019 \
