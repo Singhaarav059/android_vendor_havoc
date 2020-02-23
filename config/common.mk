@@ -124,19 +124,19 @@ PRODUCT_PACKAGES += \
 
 # Havoc packages
 PRODUCT_PACKAGES += \
-    Browser \
     CustomDoze \
+    CalculatorGooglePrebuilt \
+    CalendarGooglePrebuilt \
+    Dialer \
+    GoogleContacts \
     GalleryGoPrebuilt \
+    GMessaging \
+    LatinIMEGooglePrebuilt \
     Longshot \
-    NexusLauncherRelease \
     OmniStyle \
+    PrebuiltDeskClockGoogle \
     PixelThemesStub2019 \
-    SoundPickerPrebuilt \
-    TouchGestures
-
-# Overlays
-PRODUCT_PACKAGES += \
-    NexusLauncherReleaseOverlay
+    SoundPickerPrebuilt
 
 # Accents
 PRODUCT_PACKAGES += \
