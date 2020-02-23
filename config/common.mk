@@ -130,10 +130,15 @@ PRODUCT_PACKAGES += \
     LatinIMEGooglePrebuilt \
     PrebuiltDeskClockGoogle \
     Longshot \
+    Lawnchair \
+    Lawnfeed \
     OmniStyle \
     PixelThemesStub2019 \
     SoundPickerPrebuilt \
     TouchGestures
+
+# Lawnchair
+PRODUCT_PACKAGE_OVERLAYS += vendor/havoc/lawnchair
 
 # Accents
 PRODUCT_PACKAGES += \
