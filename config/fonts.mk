@@ -5,4 +5,6 @@ PRODUCT_COPY_FILES += \
     vendor/havoc/prebuilt/common/fonts/GoogleSans-Italic.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/GoogleSans-Italic.ttf \
     vendor/havoc/prebuilt/common/fonts/GoogleSans-MediumItalic.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/GoogleSans-MediumItalic.ttf \
     vendor/havoc/prebuilt/common/fonts/GoogleSans-Medium.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/GoogleSans-Medium.ttf \
-    vendor/havoc/prebuilt/common/fonts/GoogleSans-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/GoogleSans-Regular.ttf
+    vendor/havoc/prebuilt/common/fonts/GoogleSans-Regular.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/GoogleSans-Regular.ttf \
+    vendor/havoc/prebuilt/common/fonts/CircularStd.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/CircularStd.ttf \
+    vendor/havoc/prebuilt/common/fonts/OnePlusSlate.ttf:$(TARGET_COPY_OUT_PRODUCT)/fonts/OnePlusSlate.ttf
