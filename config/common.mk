@@ -146,7 +146,8 @@ PRODUCT_PACKAGES += \
     AccentColorFlatPinkOverlay \
     AccentColorCyanOverlay \
     AccentColorBlueGrayOverlay \
-    AccentColorMintOverlay
+    AccentColorMintOverlay \
+    AccentColorMIUIOverlay
 
 # Offline charger
 PRODUCT_PACKAGES += \
