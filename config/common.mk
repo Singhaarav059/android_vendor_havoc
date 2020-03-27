@@ -199,6 +199,7 @@ PRODUCT_PACKAGES += \
     mkfs.ntfs \
     mount.ntfs
 
+<<<<<<< HEAD
 # Openssh
 PRODUCT_PACKAGES += \
     scp \
@@ -212,6 +213,16 @@ PRODUCT_PACKAGES += \
 # rsync
 PRODUCT_PACKAGES += \
     rsync
+
+# Face Unlock
+TARGET_FACE_UNLOCK_SUPPORTED := false
+ifneq ($(TARGET_DISABLE_ALTERNATIVE_FACE_UNLOCK), true)
+PRODUCT_PACKAGES += \
+    FaceUnlockService
+TARGET_FACE_UNLOCK_SUPPORTED := true
+endif
+PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
+    ro.face.moto_unlock_service=$(TARGET_FACE_UNLOCK_SUPPORTED)
 
 # Storage manager
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
