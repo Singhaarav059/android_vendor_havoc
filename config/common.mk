@@ -133,10 +133,6 @@ PRODUCT_PACKAGES += \
     SoundPickerPrebuilt \
     TouchGestures
 
-# Overlays
-PRODUCT_PACKAGES += \
-    NexusLauncherReleaseOverlay
-
 # Accents
 PRODUCT_PACKAGES += \
     AccentColorYellowOverlay \
