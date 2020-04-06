@@ -127,7 +127,6 @@ PRODUCT_PACKAGES += \
     CustomDoze \
     GalleryGoPrebuilt \
     Longshot \
-    NexusLauncherRelease \
     OmniStyle \
     PixelThemesStub2019 \
     SoundPickerPrebuilt \
