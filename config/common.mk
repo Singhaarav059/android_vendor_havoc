@@ -146,8 +146,7 @@ PRODUCT_PACKAGES += \
     Lawnfeed \
     OmniStyle \
     PixelThemesStub2019 \
-    SoundPickerPrebuilt \
-    TouchGestures
+    SoundPickerPrebuilt
 
 # Lawnchair
 PRODUCT_PACKAGE_OVERLAYS += vendor/havoc/lawnchair
