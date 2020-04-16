@@ -151,7 +151,20 @@ PRODUCT_PACKAGES += \
     AccentColorCyanOverlay \
     AccentColorBlueGrayOverlay \
     AccentColorMintOverlay \
-    AccentColorMIUIOverlay
+    AccentColorMIUIOverlay \
+    AncientIconShapeHexagon \
+    AncientIconShapeLeaf \
+    AncientIconShapeSammy \
+    AncientIconShapeTeardrop \
+    IconShapeAncientBall \
+    IconShapeAncientBalloon \
+    IconShapeAncientCandy \
+    IconShapeAncientCloud \
+    IconShapeAncientCup \
+    IconShapeAncientQuatrefoil \
+    IconShapeAncientQuintafoil \
+    IconShapeAncientTwelveStarsStripes \
+    IconShapeAncientYinYang
 
 # Offline charger
 PRODUCT_PACKAGES += \
