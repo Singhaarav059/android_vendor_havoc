@@ -172,10 +172,8 @@ PRODUCT_PACKAGES += \
     product_charger_res_images
 
 # LatinIME lib
-ifneq ($(WITH_GAPPS),true)
 PRODUCT_PACKAGES += \
     libjni_latinimegoogle
-endif
 
 # Extra tools in Havoc
 PRODUCT_PACKAGES += \
