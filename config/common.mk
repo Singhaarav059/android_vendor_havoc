@@ -166,6 +166,14 @@ PRODUCT_PACKAGES += \
     IconShapeAncientTwelveStarsStripes \
     IconShapeAncientYinYang
 
+# Primary colors
+PRODUCT_PACKAGES += \
+    PrimaryColorCharcoalOverlay \
+    PrimaryColorFlameOverlay \
+    PrimaryColorGrayOverlay \
+    PrimaryColorNatureOverlay \
+    PrimaryColorOceanOverlay
+
 # Offline charger
 PRODUCT_PACKAGES += \
     charger_res_images \
