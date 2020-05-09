@@ -127,6 +127,7 @@ PRODUCT_PACKAGES += \
     CustomDoze \
     Dialer \
     GalleryGoPrebuilt \
+    Velvet \
     LatinIMEGooglePrebuilt \
     PrebuiltDeskClockGoogle \
     Longshot \
