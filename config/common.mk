@@ -199,7 +199,6 @@ PRODUCT_PACKAGES += \
     mkfs.ntfs \
     mount.ntfs
 
-<<<<<<< HEAD
 # Openssh
 PRODUCT_PACKAGES += \
     scp \
