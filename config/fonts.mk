@@ -15,4 +15,5 @@ PRODUCT_COPY_FILES += \
     vendor/havoc/prebuilt/common/fonts/Oduda/Oduda.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/Oduda.ttf \
     vendor/havoc/prebuilt/common/fonts/ReemKufi/ReemKufi.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/ReemKufi.ttf \
     vendor/havoc/prebuilt/common/fonts/GoogleSansMedium/GoogleSansMedium.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/GoogleSansMedium.ttf \
-    vendor/havoc/prebuilt/common/fonts/SimpleDay/SimpleDay.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SimpleDay.ttf 
+    vendor/havoc/prebuilt/common/fonts/SimpleDay/SimpleDay.ttf:$(TARGET_COPY_OUT_SYSTEM)/fonts/SimpleDay.ttf \
+    $(call find-copy-subdir-files,*,vendor/havoc/prebuilt/common/fonts,$(TARGET_COPY_OUT_SYSTEM)/fonts)
