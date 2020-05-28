@@ -152,20 +152,7 @@ PRODUCT_PACKAGES += \
     AccentColorCyanOverlay \
     AccentColorBlueGrayOverlay \
     AccentColorMintOverlay \
-    AccentColorMIUIOverlay \
-    AncientIconShapeHexagon \
-    AncientIconShapeLeaf \
-    AncientIconShapeSammy \
-    AncientIconShapeTeardrop \
-    IconShapeAncientBall \
-    IconShapeAncientBalloon \
-    IconShapeAncientCandy \
-    IconShapeAncientCloud \
-    IconShapeAncientCup \
-    IconShapeAncientQuatrefoil \
-    IconShapeAncientQuintafoil \
-    IconShapeAncientTwelveStarsStripes \
-    IconShapeAncientYinYang
+    AccentColorMIUIOverlay
 
 # Primary colors
 PRODUCT_PACKAGES += \
