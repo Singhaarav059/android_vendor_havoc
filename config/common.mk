@@ -133,6 +133,7 @@ PRODUCT_PACKAGES += \
     LatinIMEGooglePrebuilt \
     PrebuiltDeskClockGoogle \
     Velvet \
+    StitchImage \
     OmniStyle \
     PixelThemesStub2019 \
     SoundPickerPrebuilt
