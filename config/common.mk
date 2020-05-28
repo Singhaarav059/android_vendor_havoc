@@ -132,10 +132,10 @@ PRODUCT_PACKAGES += \
     LatinIMEGooglePrebuilt \
     PrebuiltDeskClockGoogle \
     Longshot \
+    Velvet \
     OmniStyle \
     PixelThemesStub2019 \
-    SoundPickerPrebuilt \
-    TouchGestures
+    SoundPickerPrebuilt
 
 # Accents
 PRODUCT_PACKAGES += \
