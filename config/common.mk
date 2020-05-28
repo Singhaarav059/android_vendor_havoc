@@ -128,6 +128,7 @@ PRODUCT_PACKAGES += \
     CalendarGooglePrebuilt \
     CustomDoze \
     Dialer \
+    GoogleContacts \
     GalleryGoPrebuilt \
     LatinIMEGooglePrebuilt \
     PrebuiltDeskClockGoogle \
