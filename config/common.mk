@@ -132,7 +132,6 @@ PRODUCT_PACKAGES += \
     GalleryGoPrebuilt \
     LatinIMEGooglePrebuilt \
     PrebuiltDeskClockGoogle \
-    Longshot \
     Velvet \
     OmniStyle \
     PixelThemesStub2019 \
