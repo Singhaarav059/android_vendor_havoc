@@ -144,7 +144,6 @@ PRODUCT_PACKAGES += \
     GalleryGoPrebuilt \
     LatinIMEGooglePrebuilt \
     PrebuiltDeskClockGoogle \
-    Velvet \
     StitchImage \
     Lawnchair \
     Lawnfeed \
